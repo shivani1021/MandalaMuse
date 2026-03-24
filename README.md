@@ -1,5 +1,6 @@
-🌸 MandalaMuse – E-Commerce Website for Mandala Art
-📌 Project Overview
+🌸 # **MandalaMuse – E-Commerce Website for Mandala Art**  
+
+📌 ## Project Overview
 
 MandalaMuse is a full-stack e-commerce web application designed for showcasing and selling mandala art products such as paintings, digital designs, and customized artwork. The platform provides a smooth and user-friendly shopping experience while promoting aesthetic and traditional mandala art in a digital format.
 
